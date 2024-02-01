@@ -1,5 +1,5 @@
-# H1 Informations sur l'entreprise d'accueil
-## H2 L'entreprise    
+# Informations sur l'entreprise d'accueil
+## L'entreprise    
 Nom de l'entreprise:    
 Principaux produits ou services de l'entreprise:    
 Mission/ Mandat de l'entreprise:    
@@ -7,12 +7,12 @@ Nombre d'employés:
 Principaux concurrents:     
 Autres informations pertinentes:    
 
-## H2 Votre superviseur     
+## Votre superviseur     
 Nom de votre maître de stage:     
 Titre de votre maître de stage:    
 Description des tâches de votre maître de stage:     
 
-## H2 L'environnement de travail     
+## L'environnement de travail     
 Lieux (Télétravail ou présence?):   
 Logiciels disponibles: 
 Équipement disponible (Caméra, ordinateur,...):    
