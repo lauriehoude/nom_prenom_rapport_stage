@@ -14,6 +14,6 @@ Description des tâches de votre maître de stage:
 
 ## L'environnement de travail     
 Lieux (Télétravail ou présence?):   
-Logiciels disponibles: 
+Logiciels disponibles:     
 Équipement disponible (Caméra, ordinateur,...):    
 Autres outils mis à votre disposition:    
