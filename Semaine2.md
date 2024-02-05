@@ -127,7 +127,7 @@ Description: Comment est-ce que vous validez le travail avec votre employeur?
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:
 
 ### Capacité d'adaptation
@@ -141,7 +141,7 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:
 
 ### Relations interpersonnelles
@@ -155,5 +155,5 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:      
