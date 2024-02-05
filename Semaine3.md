@@ -43,7 +43,7 @@ Description: (Si non, expliquez comment pallier à la siutation).
 ### La dynamique du stage
 #### Mon stage se déroule conformément au mandat initial.
 - [ ] Oui
-- [ ] Non 
+- [ ] Non     
 Commentaires: S'il y a des différences, indiquez-les.
 
 ####  Les objectifs à atteindre sont :    
@@ -181,7 +181,7 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:   
 
 ### Travail d'équipe
@@ -217,5 +217,5 @@ Commentaires:
 - [ ] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait 
+- [ ] Pas tout à fait     
 Commentaires:      
