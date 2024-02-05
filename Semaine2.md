@@ -25,6 +25,8 @@ Lorsque votre proposition créative est faite, copiez ici un lien vers celle-ci.
 
 #### Liste des équipements ou logiciels utilisés
 
+#### Faits saillants de la semaine
+
 #### Nouvelles choses apprises (méthode de travail, tâche, fonction d'un logiciel, équipement,...)
 
 #### Avez-vous accompli l'ensemble de vos tâches et objectifs pour la semaine? Décrivez    
@@ -32,72 +34,55 @@ Lorsque votre proposition créative est faite, copiez ici un lien vers celle-ci.
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait    
-Description:   
+Description: (Si non, expliquez comment pallier à la siutation).
 
-#### Votre stage se déroule-t-il conformément au mandat initial? 
-- [ ] Oui
-- [ ] Non    
-Si non, expliquez les différences:
+#### Est-ce que votre mandat ou vos tâches se réalisent selon l'échéancier prévu?    
+- [ ] Complètement 
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait    
+Description: (Si non, expliquez comment pallier à la siutation). 
 
-####  Les objectifs à atteindre sont :    
-- [ ] Très clairement définis 
-- [ ] Assez bien définis
-- [ ] Quelque peu définis
-- [ ] Plutôt vagues
-
-####  Je bénéficie d'une supervision adéquate de mon maître de stage en entreprise:  
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord    
+### La dynamique du stage
+#### Je suis satisfait de mon stage jusqu'à maintenant.    
+- [ ] Complètement 
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait    
 Commentaires:
 
-
-####  Je dispose d'un espace de travail adéquat:  
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
+#### Mon maître de stage en entreprise est présent:  
+- [ ] En tout temps 
+- [ ] Régulièrement
+- [ ] Parfois
+- [ ] Rarement    
 Commentaires:
 
- ####  Je dispose d'outils de travail adéquat:  
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:
-
- ####  Je me sens bien intégré.e au personnel du service ou département où j’effectue mon stage.
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:
+#### J'ose poser des questions:
+- [ ] En tout temps 
+- [ ] Régulièrement
+- [ ] Parfois
+- [ ] Rarement    
+Commentaires sur la supervision et l'encadrement:    
 
 ### Mandat à réaliser
-#### Je comprends l'entreprise dans laquelle j'effectue mon stage, les produits et services qu'elle offre ainsi que mon rôle dans cette dernière. 
-- [ ] Oui
-- [ ] Non    
+#### Votre projet ou vos tâches sont:
+- [ ] Parfaitement clairs
+- [ ] Assez clairs
+- [ ] Peu clairs
+- [ ] Pas clairs du tout    
+
+####  Les tâches et le mandat confié sont:     
+- [ ] Très faciles
+- [ ] Faciles
+- [ ] Un peu difficiles
+- [ ] Très difficiles    
+Commentaires: Aimeriez-vous avoir plus ou moins de défis? 
+
+####  L'échéancier de production me semble réaliste.
+- [ ] Complètement 
+- [ ] Assez
+- [ ] Un peu
+- [ ] Pas tout à fait    
 Commentaires:
 
-#### Le mandat à réaliser (projet ou tâches) est: 
-- [ ] Très clairement défini 
-- [ ] Assez bien défini
-- [ ] Quelque peu défini
-- [ ] Plutôt vague
-Commentaires:
-
- #### Le projet à réaliser me semble réaliste en lien avec mon expérience et mes compétences.   
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:
-
-### Gestion du temps
-#### J'évalue, planifie et organise mon travail.   
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:
