@@ -92,14 +92,14 @@ Commentaires:
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [ ] Ne s'applique pas    
+- [ ] Ne s'applique pas      
 Commentaires:    
 
 #### J'apprivoise aisément un nouveau logiciel ou un nouvel équipement:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord     
 Commentaires:   
 
 #### J'utilise de façon optimale les ressources matérielles et informationnelles mises à ma disposition:
@@ -139,7 +139,7 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:    
 
 ### Capacité d'adaptation
@@ -147,13 +147,13 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord     
 Commentaires:   
 
 #### J'accepte de réaliser de nouvelles tâches (Soit des tâches qui n'étaient pas prévues ou des tâches que vous n'avez jamais eu à faire):
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:
 
