@@ -99,13 +99,6 @@ Commentaires:
 - [ ] Plutôt vague
 Commentaires:
 
- #### Le projet à réaliser me semble réaliste en lien avec mon expérience et mes compétences.   
-- [ ] Très d'accord
-- [ ] Assez d'accord
-- [ ] Peu d'accord
-- [ ] Pas d'accord     
-Commentaires:
-
 ### Gestion du temps
 #### J'évalue, planifie et organise mon travail.   
 - [ ] Très d'accord
