@@ -86,3 +86,53 @@ Commentaires: Aimeriez-vous avoir plus ou moins de défis?
 - [ ] Pas tout à fait    
 Commentaires:
 
+### Proposition créative
+#### Ma proposition me semble précise, bien ciblée et adéquate.
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord    
+Commentaires:    
+
+#### Ma proposition me semble créative et semble répondre aux besoins de l'employeur.
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord    
+Commentaires:
+
+### Qualité et validation du travail accompli
+#### Je porte une attention aux détails dans la réalisation de mes tâches. 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord   
+Commentaires:
+
+#### J'utilise des méthodes de validation efficaces avec l'employeur.se pour m'assurer de la qualité du travail accompli.
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord   
+Description: Comment est-ce que vous validez le travail avec votre employeur?
+
+### Sens des responsabilités
+#### Je suis assidu.e et ponctuel.le 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord   
+
+#### Je respecte mon horaire de travail
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+Commentaires:
+
+### Capacité d'adaptation
+#### J'adhère à 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord   
