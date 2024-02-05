@@ -96,7 +96,7 @@ Commentaires:
 - [ ] Très clairement défini 
 - [ ] Assez bien défini
 - [ ] Quelque peu défini
-- [ ] Plutôt vague
+- [ ] Plutôt vague     
 Commentaires:
 
 ### Gestion du temps
