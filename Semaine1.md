@@ -25,23 +25,6 @@
 ### Autres ressources disponibles ou à réaliser
 #### Si applicable   
 
-## Problèmes potentiels
-#### Faites une liste des problèmes potentiels pour votre stage. Pour chaque problème énuméré envisagez une solution pour le limiter ou l'éviter. 
-Exemple:     
-### Problème potentiel 1
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
-
-### Problème potentiel 2
-Description: Description du problème technique, créatif ou humain...     
-Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limiter ou l'éviter?     
-
-Continuez la liste...
-
-## Échéancier
-### Liste d'étapes
-#### Faites une liste des principales tâches de votre stage. Placez ensuite les éléments de cette liste dans un tableau projects avec les dates d'échéances. Le but est d'avoir une représentation visuelle de vos tâches. 
-
 ## Proposition créative
 ### Rappeler à l'employeur que ça existe: 
 J’en ai parlé avec les entreprises lorsque j’ai confirmé les stages, il doit y avoir une place à ce que vous puissiez, en tant que stagiaire, faire une certaine proposition pour le projet sur lequel vous travaillez. Ce peut-être à plusieurs niveaux, que ce soit de la technique à utiliser, au niveau esthétique etc.  La proposition doit être faite formellement (dans un document Word, dans un wireframe, une maquette, un moodboard etc.) et remis à l’employeur (et, bien sûr, dans le journal de bord).  L’employeur pourra décider de l’accepter ou non, évidemment. Mais le stagiaire aura au moins eu l’opportunité de faire une proposition à un moment dans la planification du projet.    
