@@ -131,8 +131,29 @@ Description: Comment est-ce que vous validez le travail avec votre employeur?
 Commentaires:
 
 ### Capacité d'adaptation
-#### J'adhère à 
+#### J'adhère à la culture de l'entreprise.
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord   
+
+#### Je m'adapte à la méthode et aux outils utilisés.
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+Commentaires:
+
+### Relations interpersonnelles
+#### J'établis facilement des contacts avec les gens.
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord   
+
+#### Je sais écouter et considérer l'opinion des autres. 
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord
+Commentaires:      
