@@ -48,7 +48,8 @@ J’en ai parlé avec les entreprises lorsque j’ai confirmé les stages, il do
 
 Il sera important pour vous dès la première semaine de rappeler cet aspect avec votre employeur afin qu’il vous laisse cette ouverture pour faire une proposition dès la semaine 2 ou 3 max (l’évaluation de cet aspect se fait à la semaine 4 alors ça doit être fait avant). Votre prof superviseur vous le rappellera aussi.  
 
-## Questions générales
+## Questions complémentaires
+### Dynamique du stage
 #### Liste des tâches accomplies cette semaine
 
 #### Liste des équipements ou logiciels utilisés
@@ -99,5 +100,33 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord    
+- [ ] Pas d'accord     
+Commentaires:
+
+### Mandat à réaliser
+#### Je comprends l'entreprise dans laquelle j'effectue mon stage, les produits et services qu'elle offre ainsi que mon rôle dans cette dernière. 
+- [ ] Oui
+- [ ] Non    
+Commentaires:
+
+#### Le mandat à réaliser (projet ou tâches) est: 
+- [ ] Très clairement défini 
+- [ ] Assez bien défini
+- [ ] Quelque peu défini
+- [ ] Plutôt vague
+Commentaires:
+
+ #### Le projet à réaliser me semble réaliste en lien avec mon expérience et mes compétences.   
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord     
+Commentaires:
+
+### Gestion du temps
+#### J'évalue, planifie et organise mon travail.   
+- [ ] Très d'accord
+- [ ] Assez d'accord
+- [ ] Peu d'accord
+- [ ] Pas d'accord     
 Commentaires:
