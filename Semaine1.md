@@ -59,12 +59,12 @@ Il sera important pour vous dès la première semaine de rappeler cet aspect ave
 - [ ] Complètement 
 - [ ] Assez
 - [ ] Un peu
-- [ ] Pas tout à fait
+- [ ] Pas tout à fait    
 Description:   
 
 #### Votre stage se déroule-t-il conformément au mandat initial? 
 - [ ] Oui
-- [ ] Non
+- [ ] Non    
 Si non, expliquez les différences:
 
 ####  Les objectifs à atteindre sont :    
@@ -77,7 +77,7 @@ Si non, expliquez les différences:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:
 
 
@@ -85,19 +85,19 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord     
 Commentaires:
 
  ####  Je dispose d'outils de travail adéquat:  
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord     
 Commentaires:
 
  ####  Je me sens bien intégré.e au personnel du service ou département où j’effectue mon stage.
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:
