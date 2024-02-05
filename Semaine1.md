@@ -32,7 +32,7 @@ J’en ai parlé avec les entreprises lorsque j’ai confirmé les stages, il do
 Il sera important pour vous dès la première semaine de rappeler cet aspect avec votre employeur afin qu’il vous laisse cette ouverture pour faire une proposition dès la semaine 2 ou 3 max (l’évaluation de cet aspect se fait à la semaine 4 alors ça doit être fait avant). Votre prof superviseur vous le rappellera aussi.  
 
 ## Questions complémentaires
-### Dynamique du stage
+### Résumé de la semaine
 #### Liste des tâches accomplies cette semaine
 
 #### Liste des équipements ou logiciels utilisés
