@@ -76,7 +76,7 @@ Commentaires:
 - [ ] Souvent
 - [ ] Régulièrement
 - [ ] Parfois
-- [ ] Rarement
+- [ ] Rarement     
 Commentaires: Avez-vous des méthodes pour gérer votre stress? Comment pourrait-il être diminué? 
 
 #### J'éprouve des difficultés:
@@ -120,7 +120,7 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:   
 
 #### J'utilise de façon optimale les ressources matérielles et informationnelles mises à ma disposition:
@@ -171,14 +171,14 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:
 
 #### Je sais m'ajuster devant un imprévu:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord    
 Commentaires:   
 
 #### J'expérimente et j'apprends de nouvelles notions grâce aux connaissances déjà acquises.
@@ -186,5 +186,5 @@ Commentaires:
 - [ ] Assez d'accord
 - [ ] Peu d'accord
 - [ ] Pas d'accord
-- [ ] Ne s'applique pas
+- [ ] Ne s'applique pas    
 Commentaires:
