@@ -117,7 +117,7 @@ Commentaires:
 - [ ] Très d'accord
 - [ ] Assez d'accord
 - [ ] Peu d'accord
-- [ ] Pas d'accord
+- [ ] Pas d'accord     
 Commentaires:    
 
 ### Travail d'équipe
