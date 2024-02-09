@@ -79,7 +79,8 @@ Justifications: Pourquoi vous avez apprécié ou non ce milieu? Ses points forts
 - [ ] Peu d'accord
 - [ ] Pas d'accord    
 
-Commentaires sur le sens des responsabilités:   
+#### Commentaires sur le sens des responsabilités: 
+Commentaire ici
 
 ### Gestion du temps
 #### J'évaluais, planifiais et organisais bien mon travail.
@@ -100,7 +101,8 @@ Commentaires sur le sens des responsabilités:
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-Commentaires sur votre gestion du temps:   
+#### Commentaires sur votre gestion du temps:   
+Commentaire ici
 
 ### Capacité d'adaptation
 #### J'acceptais les critiques constructives et apportais les correctifs demandés.
@@ -133,7 +135,8 @@ Commentaires sur votre gestion du temps:
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-Commentaires sur votre capacité d'adaptation:   
+#### Commentaires sur votre capacité d'adaptation:   
+Commentaire ici
 
 ### Travail d'équipe
 #### Je travaillais en collaboration avec l'équipe.
@@ -157,7 +160,8 @@ Commentaires sur votre capacité d'adaptation:
 - [ ] Ne s'applique pas
 
 
-Commentaires sur le travail d'équipe:   
+#### Commentaires sur le travail d'équipe:   
+Commentaire ici
 
 ### Relations interpersonnelles
 #### J'établissais facilement des contacts avec les gens.
@@ -192,7 +196,8 @@ Commentaires sur le travail d'équipe:
 - [ ] Peu d'accord
 - [ ] Pas d'accord
 
-Commentaires sur les relations interpersonnelles:   
+#### Commentaires sur les relations interpersonnelles:   
+Commentaire ici
 
 ### Habiletés et compétences développées
 #### Qu'avez-vous découvert par ce stage? 
@@ -246,7 +251,8 @@ Décrivez.
 - [ ] Non    
 Pourquoi?:
 
-Commentaires généraux sur le stage:   
+#### Commentaires généraux sur le stage:   
+Commentaire ici
 
 
 
