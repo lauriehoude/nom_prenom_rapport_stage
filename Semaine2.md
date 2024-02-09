@@ -16,7 +16,7 @@ Solutions envisagées: Que pourrait-on faire pour régler ce problème, le limit
 
 Continuez la liste...
 
-## Proposition créative (remplir à la semaine 3 si pas fait)
+## Proposition créative (ici ou à la semaine 3)
 Lorsque votre proposition créative est faite, copiez ici un lien vers celle-ci. (Esquisses, croquis, moodboard, scénarimage, maquette, arborescence, wireframe...) 
 
 ## Questions complémentaires
