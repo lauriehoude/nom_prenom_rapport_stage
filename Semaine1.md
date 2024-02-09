@@ -17,7 +17,7 @@
 #### Faites une liste du matériel créatif que vous devez réaliser (Si applicable). Exemple: Visuel, sons, design,... 
 
 ### Matériel technique disponible
-#### Faites une liste du matériel technique à votre disposition (installation wordpress déjà en palce, caméra, serveurs, logiciels, site web déjà démarré, frameworks disponibles, librairies JavaScript, base de données,...)
+#### Faites une liste du matériel technique à votre disposition (installation wordpress déjà en place, caméra, serveurs, logiciels, site web déjà démarré, frameworks disponibles, librairies JavaScript, base de données,...)
 
 ### Matériel technique à réaliser
 #### Faites une liste du matériel technique que vous devez réaliser (Si applicable). Exemple: base de données, programmation...
