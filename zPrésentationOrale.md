@@ -1,7 +1,7 @@
 # Consignes pour la présentation orale finale
 La présentation aura lieu le 22 mai de 10h à 16h.     
 
-Voici les points que vous devez traiter:    
+Voici les points dont vous devez traiter:    
 * Contextualiser: Décrire votre mandat de stage, ce que vous avez réalisé comme projet ou tâches et les aspects techniques généraux.
 * Résumé du travail accompli. Qu'avez-vous fait pendant votre stage? Avez-vous tout fini ou il restait des choses à accomplir?
 * Réalisation dont vous êtes le plus fier. Bons coups.
